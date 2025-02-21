@@ -68,7 +68,7 @@ const Contact = () => {
             <h2>
               <WavingHandIcon className="hello-icon" /> Hi There,
             </h2>
-            <h2>Let's code your vision together.</h2>
+            <h2>Feel free to reach out.</h2>
           </div>
           <div className="left-email">
             <EmailIcon sx={{ fontSize: "2.5em" }} className="email-icon" />
@@ -174,7 +174,7 @@ const Contact = () => {
         </motion.div>
       )}
       <span className="copyright">
-        <i>&#169; 2024 | All rights reserved. Made by Komchan Mather</i>
+        <i>&#169; 2025 | All rights reserved. Made by Komchan Mather</i>
       </span>
     </div>
   );

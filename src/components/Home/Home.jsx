@@ -39,9 +39,7 @@ const Home = () => {
             ))}
           </div>
           <div className="sub-title">
-            <p>
-            Hi, I’m a software engineer with full-stack development experience, focused on building scalable solutions.
-            </p>
+            <p>MSc Computer Science Student at MMU</p>
           </div>
         </div>
         <div className="home-content-buttons">
