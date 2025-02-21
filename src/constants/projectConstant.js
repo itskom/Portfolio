@@ -1,6 +1,6 @@
 import PortfolioImg from "../assets/portfolio-v1.png";
 import ApplianceNowImg from "../assets/appliancenow.png";
-import Spaces_MMUImg from "../assets/spaces-mmu.png";
+import Spaces_MMUImg from "../assets/spaces_mmu.png";
 
 const projectsData = [
   {
