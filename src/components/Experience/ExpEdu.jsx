@@ -13,8 +13,7 @@ const ExpEdu = () => {
         </div>
         <div className="expedu-content-description">
           <p className="section-desc">
-            A glimpse into my academic and profesional experience, shaping my
-            growth in the tech world.
+            A glimpse into my academic and profesional experience
           </p>
         </div>
         <div className="expedu-sections">

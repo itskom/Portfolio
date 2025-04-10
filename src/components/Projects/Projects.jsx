@@ -24,7 +24,7 @@ const Projects = () => {
           //   viewport={{ once: true }}
           transition={{ duration: 0.5, delay: 0.3 }}
         >
-          <p className="section-desc">Code-Powered Designs in Action</p>
+          <p className="section-desc">Some projects I've worked on</p>
         </motion.div>
         <div className="projects-content-items">
           {projectsData.map((item) => {

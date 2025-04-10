@@ -119,7 +119,7 @@ const skills = [
   {
     id: 13,
     name: "GitHub",
-    type: "Code Hosting Platform",
+    type: "- Hosting Platform",
     image: GitHubIcon,
   },
 */
