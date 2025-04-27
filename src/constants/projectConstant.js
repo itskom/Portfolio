@@ -1,4 +1,3 @@
-import PortfolioImg from "../assets/portfolio-v1.png";
 import ApplianceNowImg from "../assets/appliancenow.png";
 import Spaces_MMUImg from "../assets/spaces_mmu.png";
 
@@ -20,15 +19,6 @@ const projectsData = [
     image: Spaces_MMUImg,
     github: "https://github.com/itskom/SpacesMMU",
     website: "https://spaces-mmu.vercel.app/",
-  },
-  {
-    id: 3,
-    name: "Portfolio V1",
-    description: "A personal portfolio to showcase my projects and skills.",
-    techStack: ["JavaScript", "React", "CSS", "NextJS", "Vercel"],
-    image: PortfolioImg,
-    github: "https://github.com/itskom",
-    website: "https://github.com/itskom",
   },
 ];
 
